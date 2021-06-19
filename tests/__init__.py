@@ -1,0 +1,1 @@
+#C:\Users\Elena>C:\Users\Elena\AppData\Local\Programs\Python\Python39\Scripts\py.test.exe -s C:\Users\Elena\PycharmProjects\pythonProject\pythonProject16PetFriendTesting\tests\test_pet_friends.py
